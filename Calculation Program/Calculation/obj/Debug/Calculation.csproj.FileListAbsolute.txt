@@ -1,0 +1,18 @@
+E:\C shap\Calculation\Calculation\bin\Debug\Calculation.exe.config
+E:\C shap\Calculation\Calculation\bin\Debug\Calculation.exe
+E:\C shap\Calculation\Calculation\bin\Debug\Calculation.pdb
+E:\C shap\Calculation\Calculation\obj\Debug\Calculation.csprojResolveAssemblyReference.cache
+E:\C shap\Calculation\Calculation\obj\Debug\Calculation.exe
+E:\C shap\Calculation\Calculation\obj\Debug\Calculation.pdb
+E:\C shap\Calculation Program\Calculation\bin\Debug\Calculation.exe.config
+E:\C shap\Calculation Program\Calculation\obj\Debug\Calculation.exe
+E:\C shap\Calculation Program\Calculation\obj\Debug\Calculation.pdb
+E:\C shap\Calculation Program\Calculation\bin\Debug\Calculation.exe
+E:\C shap\Calculation Program\Calculation\bin\Debug\Calculation.pdb
+E:\C shap\Calculation Program\Calculation\obj\Debug\Calculation.csprojResolveAssemblyReference.cache
+F:\C shap\Calculation Program\Calculation\bin\Debug\Calculation.exe.config
+F:\C shap\Calculation Program\Calculation\obj\Debug\Calculation.exe
+F:\C shap\Calculation Program\Calculation\obj\Debug\Calculation.pdb
+F:\C shap\Calculation Program\Calculation\bin\Debug\Calculation.exe
+F:\C shap\Calculation Program\Calculation\bin\Debug\Calculation.pdb
+F:\C shap\Calculation Program\Calculation\obj\Debug\Calculation.csprojResolveAssemblyReference.cache
