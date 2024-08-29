@@ -1,0 +1,20 @@
+E:\C shap\2 form windowa\2 form windowa\bin\Debug\2 form windowa.exe.config
+E:\C shap\2 form windowa\2 form windowa\bin\Debug\2 form windowa.exe
+E:\C shap\2 form windowa\2 form windowa\bin\Debug\2 form windowa.pdb
+E:\C shap\2 form windowa\2 form windowa\obj\Debug\2 form windowa.csprojResolveAssemblyReference.cache
+E:\C shap\2 form windowa\2 form windowa\obj\Debug\_2_form_windowa.Properties.Resources.resources
+E:\C shap\2 form windowa\2 form windowa\obj\Debug\2 form windowa.csproj.GenerateResource.Cache
+E:\C shap\2 form windowa\2 form windowa\obj\Debug\2 form windowa.exe
+E:\C shap\2 form windowa\2 form windowa\obj\Debug\2 form windowa.pdb
+E:\C shap\2 form windowa\2 form windowa\obj\Debug\_2_form_windowa.frmlogin.resources
+E:\C shap\2 form windowa\2 form windowa\obj\Debug\_2_form_windowa.frmmain.resources
+E:\C shap\2 Form Windows\2 form windowa\bin\Debug\2 form windowa.exe.config
+E:\C shap\2 Form Windows\2 form windowa\obj\Debug\2 form windowa.exe
+E:\C shap\2 Form Windows\2 form windowa\obj\Debug\2 form windowa.pdb
+E:\C shap\2 Form Windows\2 form windowa\bin\Debug\2 form windowa.exe
+E:\C shap\2 Form Windows\2 form windowa\bin\Debug\2 form windowa.pdb
+E:\C shap\2 Form Windows\2 form windowa\obj\Debug\2 form windowa.csprojResolveAssemblyReference.cache
+E:\C shap\2 Form Windows\2 form windowa\obj\Debug\_2_form_windowa.frmlogin.resources
+E:\C shap\2 Form Windows\2 form windowa\obj\Debug\_2_form_windowa.frmmain.resources
+E:\C shap\2 Form Windows\2 form windowa\obj\Debug\_2_form_windowa.Properties.Resources.resources
+E:\C shap\2 Form Windows\2 form windowa\obj\Debug\2 form windowa.csproj.GenerateResource.Cache
